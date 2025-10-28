@@ -16,7 +16,7 @@
 - Проверена работа службы
 
 ### Результат:
-![Status Prometheus](screenshots/Задание%201.png)
+![Status Prometheus](screenshots/task1-prometheus-status.png)
 
 ---
 
@@ -29,7 +29,7 @@
 - Проверена работа службы
 
 ### Результат:
-![Status Node Exporter](screenshots/Задание%202.png)
+![Status Node Exporter](screenshots/task2-node-exporter-status.png)
 
 ---
 
@@ -43,10 +43,10 @@
 
 ### Результат:
 **Конфигурация Prometheus:**
-![Prometheus Configuration](screenshots/Задание%201.1.png)
+![Prometheus Configuration](screenshots/task3-prometheus-config.png)
 
 **Цели мониторинга (2 эндпоинта):**
-![Prometheus Targets](screenshots/Задание%202.1.png)
+![Prometheus Targets](screenshots/task3-prometheus-targets.png)
 
 ---
 
@@ -58,7 +58,7 @@
 - Указаны ФИО "Dudnikov Daniil" в профиле
 
 ### Результат:
-![Grafana Profile](screenshots/Задание%204.png)
+![Grafana Profile](screenshots/task4-grafana-profile.png)
 
 ---
 
@@ -71,10 +71,10 @@
 
 ### Результат:
 **Источник данных Prometheus:**
-![Grafana Data Source](screenshots/Задание%205.1.png)
+![Grafana Data Source](screenshots/task5-grafana-datasource.png)
 
 **Рабочий дашборд Node Exporter:**
-![Grafana Dashboard](screenshots/Задание%205.2.png)
+![Grafana Dashboard](screenshots/task5-grafana-dashboard.png)
 
 ---
 
